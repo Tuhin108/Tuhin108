@@ -5,13 +5,8 @@
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=TUHIN%20KUMAR%20SINGHA%20ROY&fontSize=38&color=00f5d4&fontColor=060612&animation=fadeIn&stroke=00d4ff&strokeWidth=2&desc=Neural%20Architect%20%E2%80%A2%20AI%20and%20ML%20Engineer%20%E2%80%A2%20GenAI%20Builder&descSize=15&descAlignY=80&descAlign=50#gh-dark-mode-only" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=TUHIN%20KUMAR%20SINGHA%20ROY&fontSize=38&color=060612&fontColor=00f5d4&animation=fadeIn&stroke=00f5d4&strokeWidth=2&desc=Neural%20Architect%20%E2%80%A2%20AI%20and%20ML%20Engineer%20%E2%80%A2%20GenAI%20Builder&descSize=15&descAlignY=80&descAlign=50#gh-light-mode-only" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=TUHIN%20KUMAR%20SINGHA%20ROY&fontSize=38&color=1a1a2e&fontColor=00f5d4&animation=fadeIn&stroke=00f5d4&strokeWidth=2&desc=Neural%20Architect%20%E2%80%A2%20AI%20and%20ML%20Engineer%20%E2%80%A2%20GenAI%20Builder&descSize=15&descAlignY=80&descAlign=50" width="100%"/>
 </div>
-
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <div align="center">
 
