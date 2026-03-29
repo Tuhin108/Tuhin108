@@ -409,8 +409,6 @@ Enterprise-grade GenAI agent for document Q&A + ArXiv paper analysis. Multi-moda
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-TUHIN%20IN%20AIML-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tuhininaiml)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinkumarsingharoy2001@gmail.com)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-00f5d4?style=for-the-badge&logo=github&logoColor=black)](https://tuhin108.github.io)
 
 <br/><br/>
