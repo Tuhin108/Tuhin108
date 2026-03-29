@@ -416,7 +416,7 @@ Enterprise-grade GenAI agent for document Q&A + ArXiv paper analysis. Multi-moda
 ║   "Every neural network starts with a single weight.                ║
 ║    Every great AI system starts with a single line of code."        ║
 ║                                                                     ║
-║                                             — Tuhin, probably  🚀  ║
+ ║                                             — Tuhin, probably  🚀  ║
 ╚═════════════════════════════════════════════════════════════════════╝
 ```
 
