@@ -41,12 +41,12 @@ $ ./tuhin --init --mode=full
 [██████████████████████████████] 100%
 
 ✓  AI/ML Engineer        ::  10+ production-grade models built
-✓  GenAI Architect       ::  RAG · LangChain · Gemini API · Mistral
+✓  GenAI Architect       ::  RAG · LangChain · Gemini API · LLM
 ✓  AWS Cloud Practitioner::  EC2 · S3 · Lambda · IAM · Autoscaling
 ✓  Deep Learning         ::  TensorFlow · CNN · NLP · Computer Vision
 ✓  Hackathon Winner      ::  SIH 2024 College Internal Champion 🏆
 ✓  Content Creator       ::  YouTube → "Tuhin in AIML" | Active
-✓  Location              ::  Kolkata, West Bengal, India 🇮🇳
+✓  Location              ::  Kolkata, West Bengal, India
 
 > System Ready.  All modules loaded.
 ```
@@ -69,7 +69,7 @@ class TuhinKumarSinghaRoy:
     def __init__(self):
         self.name         = "Tuhin Kumar Singha Roy"
         self.role         = "AI/ML Engineer · GenAI Builder · Neural Architect"
-        self.location     = "📍 Kolkata, West Bengal, India 🇮🇳"
+        self.location     = "📍 Kolkata, West Bengal, India"
         self.education    = "🎓 B.Tech CSE (AI & ML)  @  MCKV Institute of Engineering"
         self.cgpa         = 8.35
         self.youtube      = "▶️  'Tuhin in AIML'  |  Active AI/ML Content Creator"
