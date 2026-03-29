@@ -430,4 +430,4 @@ Enterprise-grade GenAI agent for document Q&A + ArXiv paper analysis. Multi-moda
 </div>
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:060612,50:0b1433,100:060612&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00f5d4&section=footer" width="100%"/>
