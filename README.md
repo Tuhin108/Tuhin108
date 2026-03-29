@@ -193,7 +193,7 @@ Farmer Sales App
 <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
 
 ### `// AI · ML · Deep Learning`
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
 ### `// Cloud & DevOps`
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
