@@ -10,15 +10,11 @@
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=750&color=00F5D4&background=060612&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=52&lines=%5B+BOOT+%5D+Initializing+Neural+Architect...;%3E_+Specialization%3A+Generative+AI+%7C+RAG+%7C+LangChain;%3E_+Stack%3A+AWS+%E2%98%81%EF%B8%8F+%7C+TensorFlow+%7C+Python+%7C+LLMs;%3E_+Status%3A+Building+the+Future+from+Kolkata+%F0%9F%87%AE%F0%9F%87%B3+%F0%9F%9A%80;%3E_+Open+To%3A+AI+Roles+%7C+Collaborations+%7C+Research" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=750&color=00F5D4&background=060612&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=52&lines=%5B+BOOT+%5D+Initializing+Neural+Architect...;%3E_+Specialization%3A+Generative+AI+%7C+RAG+%7C+LangChain;%3E_+Stack%3A+AWS+%E2%98%81%EF%B8%8F+%7C+TensorFlow+%7C+Python+%7C+LLMs;%3E_+Status%3A+Building+the+Future+from+Kolkata+%F0%9F%87%AE%F0%9F%87%B3+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Tuhin108&color=00f5d4&style=for-the-badge&label=PROFILE+SCANS)](https://github.com/Tuhin108)
-&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/Tuhin108?label=FOLLOWERS&color=00d4ff&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuhin108?tab=followers)
-&nbsp;
-![Open To Work](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-39ff14?style=for-the-badge&logoColor=black)
 
 </div>
 
