@@ -406,7 +406,7 @@ Enterprise-grade GenAI agent for document Q&A + ArXiv paper analysis. Multi-moda
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-TUHIN%20IN%20AIML-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tuhininaiml)
 &nbsp;
-[![Portfolio](https://shields.io)](https://tuhininaiml.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00f5d4?style=for-the-badge&logo=netlify&logoColor=white)](https://tuhininaiml.netlify.app/)
 
 <br/><br/>
 
