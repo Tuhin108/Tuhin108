@@ -71,7 +71,7 @@ class TuhinKumarSinghaRoy:
         self.role         = "AI/ML Engineer · GenAI Builder · Neural Architect"
         self.location     = "📍 Kolkata, West Bengal, India"
         self.education    = "🎓 B.Tech CSE (AI & ML)  @  MCKV Institute of Engineering"
-        self.cgpa         = 8.35
+        self.cgpa         = 8.38
         self.youtube      = "▶️  'Tuhin in AIML'  |  Active AI/ML Content Creator"
         self.linkedin     = "linkedin.com/in/tuhininaiml"
 
