@@ -357,7 +357,7 @@ Enterprise-grade GenAI agent for document Q&A + ArXiv paper analysis. Multi-moda
 
 ```
 ──────────────────────────────────────────────────────────────────────
-  Jan 2026 → Present   │ 🏢  Ardent Computech Pvt. Ltd.
+  Jan 2026 → May 2026   │ 🏢  Ardent Computech Pvt. Ltd.
   Technical Intern      │     Teaching ML, Python, Data Viz, DSA
 ──────────────────────────────────────────────────────────────────────
   Jul 2025 → Oct 2025   │ ☁️  IEMA Research & IEMLabs (AWS Cloud)
